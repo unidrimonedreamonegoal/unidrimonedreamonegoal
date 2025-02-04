@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @unidrimonedreamonegoal
-- 👀 I’m interested in ... Digital Marking and SEO
+- 👋 Hi, I’m @unidrimone
+- 👀 I’m interested in ... Digital Marking and Web Development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...support@unidrim.com
